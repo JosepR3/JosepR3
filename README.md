@@ -1,7 +1,11 @@
-<b> hello im Josep</b>
+<b> Hello i'm Josep</b>
+<hr>
+<p>An enthusiast young full-stack developer specialized in MERN stack but when knowledge in many other technologies.</p>
+<p>Original from Venezuela </p><img src="https://cdn-icons-png.flaticon.com/512/630/630644.png" alt="venezuela" width="40" height="40" title="venzuela"/>
+<p>With many years in Barcelona</p><img src="ttps://besthqwallpapers.com/Uploads/12-8-2018/61312/thumb2-flag-of-barcelona-4k-silk-texture-spanish-city-color-silk-flag.jpg" alt="barcelona" width="40" height="40" title="barcelona"/>h
 <h3 align="left">Languages and Technologies:</h3>
 <p align="left">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
+   <img srct="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="css3"/>  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title ="javascript"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript" title="typescript" />
