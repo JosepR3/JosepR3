@@ -1,8 +1,8 @@
 <b> Hello i'm Josep</b>
 <hr>
 <p>An enthusiast young full-stack developer specialized in MERN stack but when knowledge in many other technologies.</p>
-<p>Original from Venezuela <img src="https://cdn-icons-png.flaticon.com/512/630/630644.png" alt="venezuela" width="40" height="40" title="venzuela"/></p>
-<p>With many years in Barcelona <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bandera_de_Barcelona_de_2_barres.svg/200px-Bandera_de_Barcelona_de_2_barres.svg.png" alt="barcelona" width="40" height="40" title="barcelona"/></p>
+<p>Original from Venezuela <img src="https://cdn-icons-png.flaticon.com/512/630/630644.png" alt="venezuela" width="20" height="20" title="venzuela"/></p>
+<p>With many years in Barcelona <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bandera_de_Barcelona_de_2_barres.svg/200px-Bandera_de_Barcelona_de_2_barres.svg.png" alt="barcelona" width="20" height="20" title="barcelona"/></p>
 <h3 align="left">Languages and Technologies:</h3>
 <p align="left">
    <img srct="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
